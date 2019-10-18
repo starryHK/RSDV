@@ -1,0 +1,10 @@
+name: shiny-rdav
+title:
+username:
+account: rdav
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1195783
+bundleId: 2475107
+url: https://rdav.shinyapps.io/shiny-rdav/
+when: 1570419046.7715
